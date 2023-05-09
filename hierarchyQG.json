@@ -1,0 +1,665 @@
+{
+  "name": "Queen's Gambit",
+  "children": [
+    {
+      "name": "Declined",
+      "children": [
+        {
+          "name": "Baltic Defense",
+          "children": [
+            {
+              "name": "Pseudo-Slav"
+            },
+            {
+              "name": "Argentinian Gambit"
+            },
+            {
+              "name": "Pseudo-Chigorin"
+            },
+            {
+              "name": "Queen Attack"
+            },
+            {
+              "name": "Queen Attack Deferred"
+            }
+          ]
+        },
+        {
+          "name": "Austrian Attack",
+          "children": [
+            {
+              "name": "Salvio Countergambit"
+            }
+          ]
+        },
+        {
+          "name": "Austrian Defense",
+          "children": [
+            {
+              "name": "Gusev Countergambit"
+            },
+            {
+              "name": "Haberditz Variation"
+            }
+          ]
+        },
+        {
+          "name": "Marshall Defense",
+          "children": [
+            {
+              "name": "Tan Gambit"
+            }
+          ]
+        },
+        {
+          "name": "Zilbermints Gambit"
+        },
+        {
+          "name": "Chigorin Defense",
+          "children": [
+            {
+              "name": "Exchange Variation",
+              "children": [
+                {
+                  "name": "Costa's Line"
+                }
+              ]
+            },
+            {
+              "name": "Janowski Variation"
+            },
+            {
+              "name": "Lazard Gambit"
+            },
+            {
+              "name": "Main Line",
+              "children": [
+                {
+                  "name": "Alekhine Variation"
+                }
+              ]
+            },
+            {
+              "name": "Modern Gambit"
+            },
+            {
+              "name": "Tartakower Gambit"
+            }
+          ]
+        },
+        {
+          "name": "Albin Countergambit",
+          "children": [
+            {
+              "name": "Balogh Variation"
+            },
+            {
+              "name": "Janowski Variation"
+            },
+            {
+              "name": "Krenosz Variation"
+            },
+            {
+              "name": "Lasker Trap"
+            },
+            {
+              "name": "Modern Line"
+            },
+            {
+              "name": "Normal Line"
+            },
+            {
+              "name": "Tartakower Defense"
+            },
+            {
+              "name": "Fianchetto Variation",
+              "children": [
+                {
+                  "name": "Be6 Line"
+                },
+                {
+                  "name": "Bf5 Line"
+                },
+                {
+                  "name": "Bg4 Line"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Capablanca Variation",
+          "children": [
+            {
+              "name": "Anti-Cambridge Springs Variation"
+            }
+          ]
+        },
+        {
+          "name": "Semmering Variation"
+        },
+        {
+          "name": "Spielmann Variation"
+        },
+        {
+          "name": "Stonewall Variation"
+        },
+        {
+          "name": "Tarrasch Defense",
+          "children": [
+            {
+              "name": "Pseudo-Tarrasch"
+            },
+            {
+              "name": "Pseudo-Tarrasch Bishop Attack"
+            },
+            {
+              "name": "Stoltz Variation"
+            }
+          ]
+        },
+        {
+          "name": "Traditional Variation"
+        },
+        {
+          "name": "Vienna Variation",
+          "children": [
+            {
+              "name": "Quiet Variation"
+            }
+          ]
+        },
+        {
+          "name": "Alapin Variation"
+        },
+        {
+          "name": "Charousek Variation",
+          "children": [
+            {
+              "name": "Miladinovic Gambit"
+            }
+          ]
+        },
+        {
+          "name": "Janowski Variation"
+        },
+        {
+          "name": "Queen's Knight Variation"
+        },
+        {
+          "name": "Semi-Slav",
+          "children": [
+            {
+              "name": "Abrahams Variation"
+            },
+            {
+              "name": "Junge Variation"
+            },
+            {
+              "name": "Koomen Variation"
+            }
+          ]
+        },
+        {
+          "name": "Uhlmann Variation"
+        },
+        {
+          "name": "Exchange Variation",
+          "children": [
+            {
+              "name": "Chameleon Variation"
+            },
+            {
+              "name": "Positional Variation"
+            },
+            {
+              "name": "S\u00e4misch Variation"
+            },
+            {
+              "name": "Reshevsky Variation"
+            }
+          ]
+        },
+        {
+          "name": "Harrwitz Attack",
+          "children": [
+            {
+              "name": "Fianchetto Defense"
+            },
+            {
+              "name": "Main Line"
+            },
+            {
+              "name": "Orthodox Defense"
+            },
+            {
+              "name": "Two Knights Defense",
+              "children": [
+                {
+                  "name": "Blockade Line"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Normal Defense"
+        },
+        {
+          "name": "Barmen Variation"
+        },
+        {
+          "name": "Knight Defense",
+          "children": [
+            {
+              "name": "Alekhine Gambit"
+            }
+          ]
+        },
+        {
+          "name": "Miles Variation"
+        },
+        {
+          "name": "Three Knights Variation"
+        },
+        {
+          "name": "Three Knights",
+          "children": [
+            {
+              "name": "Vienna Variation"
+            }
+          ]
+        },
+        {
+          "name": "Ragozin Defense",
+          "children": [
+            {
+              "name": "Alekhine Variation"
+            },
+            {
+              "name": "Vienna Variation"
+            }
+          ]
+        },
+        {
+          "name": "Westphalian Variation"
+        },
+        {
+          "name": "Semi-Tarrasch Defense",
+          "children": [
+            {
+              "name": "Levenfish Variation"
+            },
+            {
+              "name": "Pillsbury Variation"
+            },
+            {
+              "name": "Symmetrical Variation"
+            },
+            {
+              "name": "Exchange Variation"
+            },
+            {
+              "name": "Kmoch Variation"
+            },
+            {
+              "name": "San Sebastian Variation"
+            },
+            {
+              "name": "Main Line"
+            },
+            {
+              "name": "Krause Variation"
+            }
+          ]
+        },
+        {
+          "name": "Hastings Variation"
+        },
+        {
+          "name": "Been-Koomen Variation"
+        },
+        {
+          "name": "Modern Variation",
+          "children": [
+            {
+              "name": "Knight Defense"
+            },
+            {
+              "name": "Heral Variation"
+            },
+            {
+              "name": "Normal Line"
+            }
+          ]
+        },
+        {
+          "name": "Pseudo-Tarrasch Variation",
+          "children": [
+            {
+              "name": "Canal Variation"
+            },
+            {
+              "name": "Primitive Pillsbury Variation"
+            }
+          ]
+        },
+        {
+          "name": "Alekhine Variation"
+        },
+        {
+          "name": "Manhattan Variation"
+        },
+        {
+          "name": "Rochlin Variation"
+        },
+        {
+          "name": "Cambridge Springs Defense",
+          "children": [
+            {
+              "name": "Argentine Variation"
+            },
+            {
+              "name": "Bogoljubov Variation"
+            },
+            {
+              "name": "Capablanca Variation"
+            },
+            {
+              "name": "Rubinstein Variation"
+            },
+            {
+              "name": "Yugoslav Variation"
+            }
+          ]
+        },
+        {
+          "name": "Lasker Defense",
+          "children": [
+            {
+              "name": "Russian Variation"
+            },
+            {
+              "name": "Teichmann Variation"
+            },
+            {
+              "name": "Bernstein Variation",
+              "children": [
+                {
+                  "name": "Mar del Plata Gambit"
+                }
+              ]
+            },
+            {
+              "name": "Main Line"
+            }
+          ]
+        },
+        {
+          "name": "Neo-Orthodox Variation",
+          "children": [
+            {
+              "name": "Main Line"
+            }
+          ]
+        },
+        {
+          "name": "Anti-Tartakower Variation",
+          "children": [
+            {
+              "name": "Petrosian Variation"
+            }
+          ]
+        },
+        {
+          "name": "Pillsbury Attack"
+        },
+        {
+          "name": "Tartakower Defense",
+          "children": [
+            {
+              "name": "Exchange Variation"
+            },
+            {
+              "name": "Makogonov Exchange Variation"
+            }
+          ]
+        },
+        {
+          "name": "Orthodox Defense",
+          "children": [
+            {
+              "name": "Botvinnik Variation"
+            },
+            {
+              "name": "Rauzer Variation"
+            },
+            {
+              "name": "Rubinstein Variation",
+              "children": [
+                {
+                  "name": "Flohr Line"
+                }
+              ]
+            },
+            {
+              "name": "Capablanca Variation"
+            },
+            {
+              "name": "Henneberger Variation"
+            },
+            {
+              "name": "Main Line"
+            },
+            {
+              "name": "Pillsbury Variation"
+            },
+            {
+              "name": "Swiss",
+              "children": [
+                {
+                  "name": "Karlsbad Variation"
+                }
+              ]
+            },
+            {
+              "name": "Rubinstein Attack"
+            },
+            {
+              "name": "Bd3 Line"
+            },
+            {
+              "name": "Fianchetto Variation"
+            },
+            {
+              "name": "Alekhine Variation"
+            },
+            {
+              "name": "Capablanca System"
+            },
+            {
+              "name": "Janowski Variation"
+            },
+            {
+              "name": "Classical Variation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accepted",
+      "children": [
+        {
+          "name": "Accelerated Mannheim Variation"
+        },
+        {
+          "name": "Central Variation",
+          "children": [
+            {
+              "name": "Alekhine System"
+            },
+            {
+              "name": "Greco Variation"
+            },
+            {
+              "name": "McDonnell Defense",
+              "children": [
+                {
+                  "name": "Somov Gambit"
+                }
+              ]
+            },
+            {
+              "name": "Modern Defense"
+            },
+            {
+              "name": "Rubinstein Defense",
+              "children": [
+                {
+                  "name": "Yefimov Gambit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Linares Variation"
+        },
+        {
+          "name": "Old Variation",
+          "children": [
+            {
+              "name": "Billinger Gambit"
+            },
+            {
+              "name": "Christensen Gambit"
+            },
+            {
+              "name": "Korchnoi Gambit"
+            },
+            {
+              "name": "Novikov Gambit"
+            }
+          ]
+        },
+        {
+          "name": "Saduleto Variation"
+        },
+        {
+          "name": "Schwartz Defense"
+        },
+        {
+          "name": "Alekhine Defense",
+          "children": [
+            {
+              "name": "Borisenko-Furman Variation"
+            },
+            {
+              "name": "Alatortsev Variation"
+            },
+            {
+              "name": "Haberditz Variation"
+            }
+          ]
+        },
+        {
+          "name": "Godes Variation"
+        },
+        {
+          "name": "Gunsberg Defense",
+          "children": [
+            {
+              "name": "Prianishenmo Gambit"
+            }
+          ]
+        },
+        {
+          "name": "Normal Variation",
+          "children": [
+            {
+              "name": "Traditional System"
+            }
+          ]
+        },
+        {
+          "name": "Rosenthal Variation"
+        },
+        {
+          "name": "Slav Gambit"
+        },
+        {
+          "name": "Mannheim Variation"
+        },
+        {
+          "name": "Bogoljubov Defense"
+        },
+        {
+          "name": "Showalter Variation"
+        },
+        {
+          "name": "Janowski-Larsen Variation"
+        },
+        {
+          "name": "Smyslov Variation"
+        },
+        {
+          "name": "Winawer Defense"
+        },
+        {
+          "name": "Classical Defense",
+          "children": [
+            {
+              "name": "Normal Line"
+            },
+            {
+              "name": "Steinitz Variation",
+              "children": [
+                {
+                  "name": "Development Variation"
+                },
+                {
+                  "name": "Exchange Variation"
+                }
+              ]
+            },
+            {
+              "name": "Main Line"
+            },
+            {
+              "name": "Rubinstein Variation"
+            },
+            {
+              "name": "Russian Gambit"
+            },
+            {
+              "name": "Alekhine System",
+              "children": [
+                {
+                  "name": "Main Line"
+                },
+                {
+                  "name": "Smyslov Variation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Classical",
+          "children": [
+            {
+              "name": "Furman Variation"
+            },
+            {
+              "name": "Flohr Variation"
+            }
+          ]
+        },
+        {
+          "name": "Furman Variation"
+        }
+      ]
+    }
+  ]
+}
